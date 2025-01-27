@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#navbar {
+  padding: 0 50px;
+}
+
+#btn {
+  padding: 10px 25px;
+}
