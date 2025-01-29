@@ -1,9 +1,9 @@
-function Card({ cardImg, cardTitle, cardDiscription }) {
+function Card({cardImg, cardTitle, cardDiscription}) {
   return (
     <>
       <div
         id="card"
-        className="bg-white w-90 h-95  rounded-xl cursor-pointer hover: transition duration-500 ease-in-out hover:scale-108"
+        className="bg-white w-90 h-95  rounded-xl cursor-pointer hover: duration-500 ease-in-out hover:scale-108"
       >
         <img
           id="img"
